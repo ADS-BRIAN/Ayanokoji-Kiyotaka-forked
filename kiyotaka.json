@@ -1,6 +1,6 @@
 {
-  "nama": "Ayanokoji Kiyotaka",
-  "awalan": "+",
+  "nama": "Sigma Man",
+  "awalan": ".",
   "port": 8080,
   "proxy": "103.179.217.242",
   "bahasa": "id",
@@ -9,7 +9,7 @@
   "chatdm": false,
   "maintain": false,
   "zonawaktu": "Asia/Jakarta", 
-  "admin": ["100088085177610"], 
+  "admin": ["61554707631739"], 
   "setting": {
     "forceLogin": true,
     "listenEvents": true,
